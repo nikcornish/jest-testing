@@ -1,4 +1,4 @@
-const fruits = require('./arrays');
+const fruits = require('../src/arrays');
 
 // expects simple
 test('expects an array with 3 items', () => {
